@@ -3,3 +3,7 @@
 * [安装配置](sections/2.安装配置.md)
 * [本地仓库操作](sections/3.本地仓库.md) 
 * [远程仓库操作](sections/4.远程仓库.md) 
+* [分支管理](sections/5.分支管理.md) 
+* [标签管理](sections/6.标签管理.md) 
+* [github](sections/7.github.md) 
+* [使用技巧](sections/8.使用技巧.md) 
